@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 ## Overview of Mission to Mars Project
-
+Helping Robin analyze data about Mars by performing full webscraping and data analysis using Splinter, Beautiful Soup, and Pandas.
 
 ## Mission to Mars Results
 
@@ -11,7 +11,7 @@ Perfomed a web scrape to obtain the title and preview text to recent news articl
 
 [Jupyter Notebook](https://github.com/trevoriwen/Mission-to-Mars/blob/3b8e6b71ce84b4eae82b0e3d6bfbbb22433a78dd/part_1_mars_news.ipynb)
 
-[Mars News JSON file](https://github.com/trevoriwen/Mission-to-Mars/blob/3b8e6b71ce84b4eae82b0e3d6bfbbb22433a78dd/mars_weather_data.csv)
+[Mars News JSON file](https://github.com/trevoriwen/Mission-to-Mars/blob/59aa939dff9bc6090bd8d6ea7609776d67aac6a3/mars_news_json.json)
 
 ### Mars Weather (Deliverable 2)
 
